@@ -42,3 +42,15 @@
 .formulario input[type="radio"]:checked + label:before{
     display: none;
 }
+
+#result{
+    justify-items: center;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+
+}
+
+.card{
+    margin-left: 40%;
+}
